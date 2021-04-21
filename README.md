@@ -1,5 +1,6 @@
 # pardus-ogrencileri.github.io
 
+![Pardus Öğrencileri](artwork/elephant-circle-colour.png)
 # License
 
 pardus öğrencileri web sitesi
